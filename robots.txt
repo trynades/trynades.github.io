@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://trynades.github.io/sitemap/sitemap.txt
